@@ -1,0 +1,58 @@
+.Ptitles{
+    color: #003049;
+    font-weight: lighter;
+    font-size: 28px;
+    font-family: Arial, sans-serif, 'Arial Narrow';
+}
+h3{
+    color:#C1121F;
+
+}
+body{
+    background-color: #e7dccb;
+    color: #110000;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+#titulop2{
+    
+    
+    text-align: center;
+    margin-top: 10px;
+    color: #003049;
+    font-weight: lighter;
+    font-size: 40px;
+    font-family: Arial, sans-serif, 'Arial Narrow';
+    
+}
+#titulop2 {
+    position: relative;
+}
+
+#imagen-movible {
+    
+    position: absolute;
+    top: 100px;
+    left: 230px;
+    
+}
+#divp{
+    background-color: #fffcf2;
+}
+.contenedor1{
+    display: flex;
+}
+
+#divbox1{
+    
+    width: 750px;
+    height: 500px;
+    background-color: #fffffa;
+    text-align: center;
+    
+}
+#divbox2{
+    width: 750px;
+    height: 500px;
+    background-color: #b5bfa1;
+}
